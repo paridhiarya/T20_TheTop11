@@ -21,27 +21,27 @@ The project employs the following technologies:
 
 ## Getting Started
 
-To get started with the Color and Weight Sensing Object Sorting Model, follow these steps:
+To get started with **T20_TheTop11**, follow these steps:
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/color-weight-sensing-sorting-model.git
+   git clone https://github.com/yourusername/T20_TheTop11.git
 
-2. Set up the necessary hardware components, including Arduino Uno, Node-MCU, and HX711 Load Cell, and ensure they are properly connected.
+2. Install the required dependencies and libraries for Python and Power BI.
 
-3. Install the Android application on your mobile device and connect it to the system.
+3. Explore the data analysis and visualization tools provided in the repository to understand how the team selection process is carried out.
 
-4. Start using the system to sort objects based on their color and weight.
+4. Use the insights gained to make data-driven decisions for selecting the top 11 cricketers.
 
 ## Usage
-1. Launch the Android application and connect it to the hardware system.
+1. Launch Power BI or the provided Python scripts to analyze player statistics, team performance, and other relevant data.
 
-2. Place objects on the sensing platform and initiate the sorting process using the Android interface.
+2. Select the best 11 cricketers who collectively meet the criteria of scoring at least 180 runs and defending 150 runs on average.
 
-3. The system will sort objects into four bins, and the Android interface will display object descriptions and counts in real time.
+3. Document your team selection process and provide justifications for your choices.
 
-4. Customize and configure the system to meet your specific sorting requirements and object categories.
+4. Continuously update and refine the team based on the performance of the selected cricketers.
 
 ## Contributing
 1. If you wish to contribute to this project, please follow these steps:
